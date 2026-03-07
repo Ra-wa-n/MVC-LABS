@@ -1,0 +1,856 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\home\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\department\\grades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\department\\grades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\repo\\entityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\repo\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\student\\displaystudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\models\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:models\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\repo\\ientityrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\data\\pcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\repo\\deptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\repo\\stscrsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\repo\\stdrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\repo\\crsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\model\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260304150736_identityauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\migrations\\20260302042634_createuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\project.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302045102_MakeUserIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302044554_UserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302044118_UpdateUserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|c:\\users\\infotech\\source\\repos\\day1_mvc\\day1_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F7798A2-7516-4E4E-A457-A71E88D10B06}|Day1_MVC.csproj|solutionrelative:day1_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260301084945_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\migrations\\20260301085619_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\migrations\\20260302045409_makeuseridnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\migrations\\20260304151821_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\migrations\\20260304144930_removeusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159D7401-9BE8-4AAF-B01D-F4EE667D9A05}|..\\Project.Data\\Project.Data.csproj|c:\\users\\infotech\\source\\repos\\project.data\\migrations\\20260306234211_nullableprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:54:49.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:22:55.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Home\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\Home\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T23:35:18.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T23:32:23.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:14:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T13:41:10.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T05:18:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:26:37.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Grades.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Grades.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Grades.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Grades.cshtml",
+              "RelativeToolTip": "Views\\Department\\Grades.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T21:01:44.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:01:08.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwDsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T13:22:55.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Models\\LoginVm.cs",
+              "RelativeDocumentMoniker": "Models\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Models\\LoginVm.cs",
+              "RelativeToolTip": "Models\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:18:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\EntityRepo.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Repo\\EntityRepo.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\EntityRepo.cs",
+              "RelativeToolTip": "..\\Project.Data\\Repo\\EntityRepo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T22:26:14.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T10:44:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Repo\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Project.Data\\Repo\\UnitOfWork.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T22:41:52.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DisplayStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\DisplayStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\DisplayStudents.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\DisplayStudents.cshtml",
+              "RelativeToolTip": "Views\\Student\\DisplayStudents.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T09:25:45.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T19:01:57.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentVm.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Models\\StudentVm.cs",
+              "RelativeDocumentMoniker": "Models\\StudentVm.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Models\\StudentVm.cs",
+              "RelativeToolTip": "Models\\StudentVm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T09:36:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\create.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\create.cshtml",
+              "RelativeToolTip": "Views\\Department\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T23:33:07.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T09:46:41.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwDwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T19:34:35.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Models\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Models\\RegisterVm.cs",
+              "RelativeToolTip": "Models\\RegisterVm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:59:48.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20260306234211_nullableprop.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260306234211_nullableprop.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260306234211_nullableprop.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260306234211_nullableprop.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260306234211_nullableprop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T23:42:11.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Student.cs",
+              "RelativeToolTip": "..\\Project.Data\\Model\\Student.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T07:59:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Admin.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Model\\Admin.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Admin.cs",
+              "RelativeToolTip": "..\\Project.Data\\Model\\Admin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:56:41.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T22:20:40.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T23:33:40.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEntityRepo.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\IEntityRepo.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Repo\\IEntityRepo.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\IEntityRepo.cs",
+              "RelativeToolTip": "..\\Project.Data\\Repo\\IEntityRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:22:10.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:03:02.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PContext.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Data\\PContext.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Data\\PContext.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Data\\PContext.cs",
+              "RelativeToolTip": "..\\Project.Data\\Data\\PContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:08:39.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeptRepo.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\DeptRepo.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Repo\\DeptRepo.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\DeptRepo.cs",
+              "RelativeToolTip": "..\\Project.Data\\Repo\\DeptRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:35:22.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StsCrsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\StsCrsRepo.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Repo\\StsCrsRepo.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\StsCrsRepo.cs",
+              "RelativeToolTip": "..\\Project.Data\\Repo\\StsCrsRepo.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:46:16.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StdRepo.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\StdRepo.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Repo\\StdRepo.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\StdRepo.cs",
+              "RelativeToolTip": "..\\Project.Data\\Repo\\StdRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvy8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:24:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CrsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\CrsRepo.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Repo\\CrsRepo.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Repo\\CrsRepo.cs",
+              "RelativeToolTip": "..\\Project.Data\\Repo\\CrsRepo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvywAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:37:25.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Model\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\StudentCourse.cs",
+              "RelativeToolTip": "..\\Project.Data\\Model\\StudentCourse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:05:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20260304151821_identity.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260304151821_identity.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260304151821_identity.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260304151821_identity.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260304151821_identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:18:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260304150736_identityauth.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260304150736_identityauth.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260304150736_identityauth.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260304150736_identityauth.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260304150736_identityauth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T15:07:36.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20260304144930_removeusertable.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260304144930_removeusertable.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260304144930_removeusertable.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260304144930_removeusertable.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260304144930_removeusertable.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:49:31.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260302042634_CreateUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302042634_CreateUserRole.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260302042634_CreateUserRole.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302042634_CreateUserRole.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260302042634_CreateUserRole.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:26:34.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Project.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Project.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Project.Data.csproj",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Project.Data.csproj",
+              "RelativeToolTip": "..\\Project.Data\\Project.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T07:58:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260302045102_MakeUserIdNullable.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302045102_MakeUserIdNullable.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260302045102_MakeUserIdNullable.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302045102_MakeUserIdNullable.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260302045102_MakeUserIdNullable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:51:02.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260302045409_MakeUserIdNullable.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302045409_MakeUserIdNullable.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260302045409_MakeUserIdNullable.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302045409_MakeUserIdNullable.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260302045409_MakeUserIdNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:54:09.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260302044554_UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302044554_UserRole.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260302044554_UserRole.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302044554_UserRole.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260302044554_UserRole.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:45:55.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260302044118_UpdateUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302044118_UpdateUserRole.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260302044118_UpdateUserRole.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260302044118_UpdateUserRole.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260302044118_UpdateUserRole.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:41:18.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T09:26:46.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T10:59:50.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T23:32:33.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T23:33:03.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Course.cs",
+              "RelativeToolTip": "..\\Project.Data\\Model\\Course.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:01:43.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T09:29:04.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20260301085619_initial.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260301085619_initial.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260301085619_initial.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260301085619_initial.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260301085619_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:56:19.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Day1_MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Day1_MVC.csproj",
+              "RelativeDocumentMoniker": "Day1_MVC.csproj",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Day1_MVC\\Day1_MVC.csproj",
+              "RelativeToolTip": "Day1_MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T08:47:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20260301084945_intial.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260301084945_intial.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Migrations\\20260301084945_intial.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Migrations\\20260301084945_intial.cs",
+              "RelativeToolTip": "..\\Project.Data\\Migrations\\20260301084945_intial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:49:45.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "..\\Project.Data\\Model\\Department.cs",
+              "ToolTip": "C:\\Users\\infotech\\source\\repos\\Project.Data\\Model\\Department.cs",
+              "RelativeToolTip": "..\\Project.Data\\Model\\Department.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T08:00:50.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

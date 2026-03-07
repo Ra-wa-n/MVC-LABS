@@ -1,0 +1,30 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6 shadow-sm p-4 border rounded bg-light">
+            <h2 class="text-primary mb-4">Edit Course</h2>
+
+            <form asp-action="Edit" asp-controller="Course" method="post">
+                <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label font-weight-bold"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Department name" />
+                    <span asp-validation-for="Name" class="text-danger small"></span>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary btn-lg">Edit Course</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+

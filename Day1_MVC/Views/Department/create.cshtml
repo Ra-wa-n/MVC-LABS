@@ -1,0 +1,42 @@
+﻿@model DeptVm
+@{
+    
+    SelectList crsItems = new SelectList(ViewBag.crs, "Id", "Name");
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6 shadow-sm p-4 border rounded bg-light">
+            <h2 class="text-primary mb-4 text-center">Add New Department</h2>
+
+            <form method="post">
+                <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label fw-bold"></label>
+                    <input asp-for="Name" class="form-control" placeholder="e.g. Computer Science" />
+                    <span asp-validation-for="Name" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="StudentCount" class="form-label fw-bold"></label>
+                    <input asp-for="StudentCount" class="form-control" />
+                    <span asp-validation-for="StudentCount" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Crs" class="form-label fw-bold">Select Courses</label>
+                    <select asp-for="Crs" asp-items="crsItems" class="form-select" multiple size="5">
+                    </select>
+                    <span asp-validation-for="Crs" class="text-danger small"></span>
+                    <div class="form-text text-muted">Hold Ctrl (Windows) or Command (Mac) to select multiple items.</div>
+                </div>
+               
+
+                <div class="d-grid mt-4">
+                    <button type="submit" class="btn btn-primary btn-lg">Add Department</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
